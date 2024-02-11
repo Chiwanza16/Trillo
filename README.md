@@ -8,14 +8,14 @@ This website was built using:
 4. IcoMoon for icons
 
 
-<img src="./img/Screenshot (12).png" />
-<img src="./img/Screenshot (13).png" />
+<img src="./img/Screenshot (14).png" />
+
 
 ## Features
 
 - Modern layout with custom colors/styles/backgrounds
 - Responsive design
-- Animated navbar with style changes on click
+- Animated navbar with style changes on hover
 - Form & input styles
 - Testimonials
 
